@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dingding-leo.github.io/mmi-question-bank/sitemap.xml
